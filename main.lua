@@ -9,7 +9,7 @@ local json = require("json")
 local io = require("io")
 
 composer.setVariable("ratio", H * 0.006)
-composer.setVariable("colorValue", "rgb")
+composer.setVariable("colorValue", "royal")
 
 local function dataManagement(operation)
 	local dataFile
